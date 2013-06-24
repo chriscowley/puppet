@@ -1,4 +1,4 @@
-puppet
-======
+Ceph
+=====
 
-Puppet modules
+Base module for installing Ceph.
