@@ -1,3 +1,15 @@
+# Class: ceph
+#
+# This module manages Ceph
+#
+# Parameters: none (yet)
+#
+# Actions: Installs Ceph
+#
+# Requires: apt
+#
+# Sample Usage: none (yet)
+#
 class ceph {
 	apt::source { "ceph":
 		location          => "http://ceph.com/debian/",
