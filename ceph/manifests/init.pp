@@ -6,7 +6,7 @@
 #
 # Actions: Installs Ceph
 #
-# Requires: apt
+# Requires: puppetlabs/apt
 #
 # Sample Usage: none (yet)
 #
